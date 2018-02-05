@@ -14,6 +14,7 @@ function sayHiToGrandma(string) {return string.toLowerCase() === string
   return ("I love you, too");
   
 }}
+return "Are you eating enough?"
 {if (string.toUpperCase() === string) {
   return  ("YES INDEED!");
 }}
